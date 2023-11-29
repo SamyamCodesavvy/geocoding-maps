@@ -1,6 +1,6 @@
 import urllib.request, urllib.parse, urllib.error
 import json
-# import ssl
+# import ssl from sslite
 
 api_key = False
 # If you have a Google Places API key, enter it here
