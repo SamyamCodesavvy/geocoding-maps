@@ -6,6 +6,7 @@ api_key = False
 # If you have a Google Places API key, enter it here
 # api_key = 'AIzaSy___IDByT70'
 # https://developers.google.com/maps/documentation/geocoding/intro
+# you can use your own
 
 if api_key is False:
     api_key = 42
