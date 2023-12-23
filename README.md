@@ -1,4 +1,4 @@
-Location Geodecoding
+Location Geocoding
 
 ## Introduction
 
