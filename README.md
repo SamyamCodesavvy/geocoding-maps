@@ -1,4 +1,4 @@
-# Location Geocoding with APIs
+# Location Geocoding
 
 ## Introduction
 
