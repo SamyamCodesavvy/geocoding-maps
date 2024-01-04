@@ -4,7 +4,7 @@
 
 This project offers a simple yet effective way to retrieve geocoding information, including latitude, longitude, and formatted address, for a given location. It utilizes the Google Places API or a default service URL to perform the geocoding process. The script is designed to assist users in obtaining precise geographic coordinates for various locations effortlessly.
 
-## Features and Functionality
+## Features and Functionality of the application
 
 - **Address Input**: Users can input the location address they want to geocode.
 - **Google Places API or Default Service**: The script checks for a Google Places API key; if not available, it defaults to a provided service URL.
