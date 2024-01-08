@@ -7,7 +7,7 @@ This project offers a simple yet effective way to retrieve geocoding information
 ## Features and Functionalities
 
 - **Address Input**: Users can input the location address they want to geocode.
-- **Google Places API or Default Service**: The script checks for a Google Places API key; ifnotyyyavailable, it defaults to a provided service URL.
+- **Google Places API or Default Service**: The script checks for a Google Places API key; if not available, it defaults to a provided service URL.
 - **HTTP Request Handling**: Utilizes `urllib` to handle HTTP requests for obtaining geocoding data.
 - **JSON Data Parsing**: The script uses the `json` library to parse the received JSON response and extract the necessary geocoding details.
 - **Error Handling**: It includes error handling to manage potential issues with data retrieval or malformed responses.
